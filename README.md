@@ -1,5 +1,7 @@
 # esp32cam-wifi-robot-car
- 
+
+![](https://github.com/AlexeyMal/esp32cam-wifi-robot-car/blob/main/IMG_20210407_103728.jpg)
+
 Drive and see the video from the car with your Android phone or tablet!
 I have extended the car software (must be programmed to ESP32-CAM in Arduino IDE) to support the motor speed control unsing the (servo-) slider in the app.
 
